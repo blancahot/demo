@@ -1,4 +1,4 @@
-# DEMO
+# Demo
 
 This demo demostrates a simple python app which can be expose to 'localhost:8080' by a docker container.
 
